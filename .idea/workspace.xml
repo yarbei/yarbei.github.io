@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d3e3320-3ce0-4054-beb9-54932efda145" name="默认变更列表" comment="">
-      <change afterPath="$PROJECT_DIR$/themes/Sakura/source/images/contact/wechatcode.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Hexo-Theme-Sakura.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Hexo-Theme-Sakura.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/Sakura/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Sakura/CNAME" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/Sakura/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Sakura/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +30,9 @@
     <setting file="file://$PROJECT_DIR$/themes/Sakura/_config.yml" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1q31l87P2XXSTQYz37CBUQYi22g" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,6 +41,7 @@
     <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -61,7 +68,7 @@
       <workItem from="1616293612229" duration="5140000" />
       <workItem from="1616313859287" duration="2438000" />
       <workItem from="1616316983141" duration="189000" />
-      <workItem from="1616317175933" duration="9269000" />
+      <workItem from="1616317175933" duration="13340000" />
     </task>
     <servers />
   </component>
@@ -79,5 +86,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

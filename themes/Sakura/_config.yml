@@ -6,7 +6,7 @@ favicon: /images/favicon.ico
 avatar: /images/avatar.png
 url: https://wyabei.com
 description:
-cdn: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6
+#cdn: https://cdn.jsdelivr.net/gh/honjun/cdn@1.6
 pjax: 1
 # 1开启
 mathjax: 0
@@ -23,15 +23,15 @@ menus:
     随想: {path: /categories/随想/, fa: fa-commenting-o },
     转载: {path: /categories/转载/, fa: fa-book }
   } }
-  清单: { path: javascript:;, fa: fa-list-ul faa-vertical, submenus: {
-    书单: {path: /tags/悦读/, fa: fa-th-list faa-bounce },
-    番组: {path: /bangumi/, fa: fa-film faa-vertical },
-    歌单: {path: /music/, fa: fa-headphones },
-    图集: {path: /tags/图集/, fa: fa-photo }
-  } }
+#  清单: { path: javascript:;, fa: fa-list-ul faa-vertical, submenus: {
+#    书单: {path: /tags/悦读/, fa: fa-th-list faa-bounce },
+#    番组: {path: /bangumi/, fa: fa-film faa-vertical },
+#    歌单: {path: /music/, fa: fa-headphones },
+#    图集: {path: /tags/图集/, fa: fa-photo }
+#  } }
   留言板: { path: /comment/, fa: fa-pencil-square-o faa-tada }
   友人帐: { path: /links/, fa: fa-link faa-shake }
-  赞赏: { path: /donate/, fa: fa-heart faa-pulse }
+#  赞赏: { path: /donate/, fa: fa-heart faa-pulse }
   关于我: { path: /about/, fa: fa-meetup}
 
 
@@ -106,7 +106,7 @@ aplayer:
   mutex: true
 
 # Valine
-valine: true
-v_appId: GyC3NzMvd0hT9Yyd2hYIC0MN-gzGzoHsz
-v_appKey: mgOpfzbkHYqU92CV4IDlAUHQ
+#valine: true
+#v_appId: GyC3NzMvd0hT9Yyd2hYIC0MN-gzGzoHsz
+#v_appKey: mgOpfzbkHYqU92CV4IDlAUHQ
 

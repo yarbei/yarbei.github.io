@@ -85,7 +85,7 @@ deploy:
 # backup
 backup:
   type: git
-  message: backup my blog of https://yourname.github.io/
+  message: backup my blog of https://yarbei.github.io/
   repository:
      github: https://github.com/yarbei/yarbei.github.io.git,backup
 
