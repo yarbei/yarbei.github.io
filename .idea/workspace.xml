@@ -4,6 +4,7 @@
     <list default="true" id="3d3e3320-3ce0-4054-beb9-54932efda145" name="默认变更列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Hexo-Theme-Sakura.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Hexo-Theme-Sakura【转】.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/Sakura/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Sakura/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/Sakura/layout/_partial/footer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Sakura/layout/_partial/footer.ejs" afterDir="false" />
     </list>
@@ -68,7 +69,7 @@
       <workItem from="1616316983141" duration="189000" />
       <workItem from="1616317175933" duration="13340000" />
       <workItem from="1616337020285" duration="1900000" />
-      <workItem from="1616419246403" duration="1724000" />
+      <workItem from="1616419246403" duration="2155000" />
     </task>
     <servers />
   </component>
