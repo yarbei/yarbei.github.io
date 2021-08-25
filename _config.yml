@@ -82,15 +82,15 @@ deploy:
   repository:
 #    github: https://github.com/yarbei/yarbei.github.io.git
     coding: https://e.coding.net/yarbei/yarbei/yarbei.github.io.git
-  branch: master
+  branch: main
 
 # backup
 backup:
   type: git
   message: backup my blog of https://yarbei.github.io/
   repository:
-    github: https://github.com/yarbei/yarbei.github.io.git,backup
-#    coding: https://e.coding.net/cynwxh/yarbei/yarbei.github.io.git,backup
+    # github: https://github.com/yarbei/yarbei.github.io.git,backup
+   coding: https://e.coding.net/yarbei/yarbei/yarbei.github.io.git,backup
 
 #RSS
 feed:
