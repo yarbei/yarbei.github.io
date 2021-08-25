@@ -81,7 +81,7 @@ deploy:
   type: git
   repository:
 #    github: https://github.com/yarbei/yarbei.github.io.git
-    coding: https://e.coding.net/cynwxh/yarbei/yarbei.github.io.git
+    coding: https://e.coding.net/yarbei/yarbei/yarbei.github.io.git
   branch: master
 
 # backup
